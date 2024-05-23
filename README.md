@@ -58,13 +58,13 @@ Execute os comandos abaixo (o primeiro destrói todos os containers e volumes do
 Clone o projeto
 
 ```bash
-  git clone https://github.com/dcleme17/fiap-tech-challenge-grupo22.git
+  git clone https://github.com/marinaslucas/fiap-grupo7-ddd
 ```
 
 Vá para o diretório do projeto
 
 ```bash
-  cd fiap-tech-challenge-grupo22/backend
+  cd fiap-grupo7-ddd
 ```
 
 Instale as dependencias
