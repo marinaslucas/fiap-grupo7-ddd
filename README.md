@@ -12,6 +12,7 @@
 **Banco de Dados:**
 - MongoDB
 
+
 ### Requisitos de Negócio
 
 #### Sistema de Autoatendimento de Pedidos - Lanchonetes
